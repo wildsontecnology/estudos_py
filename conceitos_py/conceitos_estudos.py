@@ -95,3 +95,32 @@ como listas e dicionários, são mutáveis, permitindo
 a modificação de seus valores.
 
 '''
+
+'''
+
+4. Conversão de tipos, coerção
+
+type convertion, type casting, type coercion, type conversion
+
+É o ato de converter um valor de um tipo de dado para outro.
+
+Tipos imutáveis e primitivos, como inteiros, floats e strings, podem ser convertidos
+
+
+'''
+
+# Exemplo 1: Conversão de string para inteiro
+numero_str = "42"  # Uma string que representa um número inteiro.
+numero_int = int(numero_str)  # Converte a string para um inteiro.  
+print(numero_int)  # Exibe o valor convertido (42) no console.
+
+'''
+
+5. Variáveis: São usadas para armazenar valores em memória,
+permitindo que você os utilize e manipule ao longo do código.
+
+'''
+
+# Exemplo 1: Declaração e atribuição de variáveis
+idade = 25  # A variável 'idade' armazena o valor inteiro 25  
+print(idade)  # Exibe o valor da variável no console.
